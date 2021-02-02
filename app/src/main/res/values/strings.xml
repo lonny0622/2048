@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="Score">得分</string>
+    <string name="Highest_Score">最高分</string>
+</resources>
